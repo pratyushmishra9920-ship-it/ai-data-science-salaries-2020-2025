@@ -1,24 +1,35 @@
 # Global AI & Data Science Salaries (2020–2025)
 
 <p align="left">
+
+  <!-- Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=pratyushmishra9920-ship-it&label=Visitors&color=blue&style=flat" alt="Visitor Badge"/>
+
+  <!-- Stars -->
   <a href="https://github.com/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025/stargazers">
     <img src="https://img.shields.io/github/stars/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025?style=flat&color=yellow" alt="Stars Badge"/>
   </a>
 
+  <!-- Forks -->
   <a href="https://github.com/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025/forks">
     <img src="https://img.shields.io/github/forks/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025?style=flat&color=brightgreen" alt="Forks Badge"/>
   </a>
 
+  <!-- Release -->
   <a href="https://github.com/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025/releases">
     <img src="https://img.shields.io/github/v/release/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025?color=blue" alt="Release Version Badge"/>
   </a>
 
+  <!-- License -->
   <a href="https://github.com/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025?color=lightgrey" alt="License Badge"/>
   </a>
 
+  <!-- Custom Dataset Badge -->
   <img src="https://img.shields.io/badge/Data%20Science-2020--2025-blueviolet?style=flat" alt="Dataset Badge"/>
+
 </p>
+
 
 A multi-country, multi-role synthetic salary dataset with complete EDA, Python/R notebooks, visualizations, benchmarking insights, and structured folders for easy reuse.
 
