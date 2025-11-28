@@ -96,13 +96,6 @@ Embed examples (replace after uploading images):
 import pandas as pd
 df = pd.read_csv("data/AI_DS_Salaries_2020_2025.csv")
 df.head()
-```
-
-## ▶ How to Use (R)
-```r
-df <- read.csv("data/AI_DS_Salaries_2020_2025.csv")
-head(df)
-```
 
 ---
 
