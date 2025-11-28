@@ -8,7 +8,6 @@ A multi-country, multi-role synthetic salary dataset with complete EDA, Python/R
 ## 🔗 Quick Access
 - **Dataset:** `/data/AI_DS_Salaries_2020_2025.csv`
 - **Python Notebook:** `/code/python_eda.ipynb`
-- **R Notebook:** `/code/r_eda.ipynb`
 - **Charts:** `/images/`
 
 ---
@@ -39,7 +38,6 @@ It is designed for:
     └── AI_DS_Salaries_2020_2025.csv
 /code
     ├── python_eda.ipynb
-    └── r_eda.ipynb
 /images
     ├── thumbnail.png
     ├── salary_trend.png
